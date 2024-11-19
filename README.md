@@ -6,7 +6,9 @@ This project involves analyzing a time-series weather dataset with per-hour info
 The dataset records various attributes such as Temperature, Dew Point Temperature, Relative Humidity, Wind Speed, Visibility, Pressure, and Weather Conditions. 
 
 The analysis is performed using Python and its powerful libraries, focusing on data manipulation and exploratory data analysis.
+
 ![Logo](https://i.imgur.com/GyDKfGP.jpeg)
+
 ## Project Overview 📃
 The main objectives of this project are:
 - Import and clean the dataset.
